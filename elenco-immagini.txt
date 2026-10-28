@@ -1,0 +1,161 @@
+ELENCO IMMAGINI NECESSARIE - Sticker Spam Society
+===================================================
+Numero, nome file (da usare esattamente cosi'), misure consigliate, note.
+Tutte le immagini vanno nelle cartelle indicate dentro il repository.
+Formati: PNG (meglio se scontornato/trasparente) o JPG. Peso consigliato: max 300 KB ciascuna.
+Per ogni prodotto basta UNA foto; se hai sia .png che .jpg con lo stesso nome vince il .png.
+
+--- A. GRAFICA DEL SITO ---
+  1. img/logo.png                                        800x200 px      logo con sfondo trasparente, versione chiara (visibile su nero)
+  2. favicon.png                                         512x512 px      icona quadrata per la scheda del browser
+  3. img/sfondi/hero.jpg                                 1920x1080 px    sfondo della home (scuro, il testo ci sta sopra); opzionale 1080x1920 per telefono: hero-mobile.jpg
+  4. img/sfondi/hero-mobile.jpg                          1080x1920 px    opzionale
+  5. img/og.jpg                                          1200x630 px     anteprima quando condividi il link su Instagram/WhatsApp
+  6. img/chi-siamo.jpg                                   1200x900 px     foto banchetto / laboratorio / voi
+
+--- B. SFONDI DELLE CATEGORIE (strisce dietro ai titoli, opzionali) ---
+  7. img/sfondi/offerte.jpg                              1600x500 px     Box & offerte
+  8. img/sfondi/stickers.jpg                             1600x500 px     Stickers
+  9. img/sfondi/tubini.jpg                               1600x500 px     Tubini
+ 10. img/sfondi/schede.jpg                               1600x500 px     Schede e santini
+ 11. img/sfondi/pianali.jpg                              1600x500 px     Pianali
+ 12. img/sfondi/clipper.jpg                              1600x500 px     Clipper
+ 13. img/sfondi/cartine.jpg                              1600x500 px     Cartine e filtrini
+ 14. img/sfondi/merch.jpg                                1600x500 px     Merch e varie
+
+--- C. FOTO PRODOTTI (quadrate, 800x800 px, fondo trasparente o neutro) ---
+
+# Box & offerte
+ 15. img/prodotti/box-400-stickers.png                   800x800 px      Box 400 stickers in carta
+
+# Stickers
+ 16. img/prodotti/sticker-too-fast-for-polizia.png       800x800 px      Too fast for polizia
+ 17. img/prodotti/sticker-pippa-bag.png                  800x800 px      Pippa bag
+ 18. img/prodotti/sticker-degrado-da-rave.png            800x800 px      Degrado da rave
+ 19. img/prodotti/sticker-rave-da-degrado.png            800x800 px      Rave da degrado
+ 20. img/prodotti/sticker-amici-amici.png                800x800 px      Amici amici
+ 21. img/prodotti/sticker-scuola-gran-sasso.png          800x800 px      Scuola Gran Sasso
+ 22. img/prodotti/sticker-merde.png                      800x800 px      Merde
+ 23. img/prodotti/sticker-non-indurci-instazione.png     800x800 px      Non indurci instazione
+ 24. img/prodotti/sticker-buongiorno-un-cazzo.png        800x800 px      Buongiorno un cazzo
+ 25. img/prodotti/sticker-fotocopia-della-merda.png      800x800 px      Fotocopia della merda  [foto principale]
+ 26. img/prodotti/sticker-paga-i-buffi.png               800x800 px      Paga i buffi
+ 27. img/prodotti/sticker-naseruola.png                  800x800 px      Naseruola
+ 28. img/prodotti/sticker-banconote.png                  800x800 px      Banconote  [foto principale]
+ 29. img/prodotti/sticker-crack-norris.png               800x800 px      Crack Norris
+ 30. img/prodotti/sticker-se-squirti-ti-sposo.png        800x800 px      Se squirti ti sposo
+ 31. img/prodotti/sticker-tekno-industriale.png          800x800 px      Tekno industriale
+ 32. img/prodotti/sticker-xanax.png                      800x800 px      Xanax
+ 33. img/prodotti/sticker-eurospeed.png                  800x800 px      Eurospeed
+ 34. img/prodotti/sticker-la-goccia-che-fa-traboccare-il-vaso.png800x800 px      La goccia che fa traboccare il vaso
+ 35. img/prodotti/sticker-hoffman-2000.png               800x800 px      Hoffman 2000
+ 36. img/prodotti/sticker-pippa-di-meno.png              800x800 px      Pippa di meno
+ 37. img/prodotti/sticker-giovanni-raglia.png            800x800 px      Giovanni Raglia
+ 38. img/prodotti/sticker-il-naso-bianco-fa-parte-del-outfit.png800x800 px      Il naso bianco fa parte del outfit
+ 39. img/prodotti/sticker-chicche-del-mulino-bianco.png  800x800 px      Chicche del Mulino Bianco
+ 40. img/prodotti/sticker-piketch.png                    800x800 px      Piketch
+ 41. img/prodotti/sticker-da-capezzolo-a-capezzolo.png   800x800 px      Da capezzolo a capezzolo
+ 42. img/prodotti/sticker-narici-trafficate.png          800x800 px      Narici trafficate
+ 43. img/prodotti/sticker-sonic-acab.png                 800x800 px      Sonic ACAB
+ 44. img/prodotti/sticker-ketch-woman.png                800x800 px      Ketch Woman
+ 45. img/prodotti/sticker-acab.png                       800x800 px      ACAB
+ 46. img/prodotti/sticker-khole.png                      800x800 px      Khole
+ 47. img/prodotti/sticker-chi-vuole-intendere-intenda.png800x800 px      Chi vuole intendere intenda
+ 48. img/prodotti/sticker-voi-stendete-noi-stiriamo.png  800x800 px      Voi stendete noi stiriamo
+ 49. img/prodotti/sticker-one-pezzo.png                  800x800 px      One pezzo
+ 50. img/prodotti/sticker-la-botta-che-fa-traboccare-il-naso.png800x800 px      La botta che fa traboccare il naso
+ 51. img/prodotti/sticker-attenti-al-cane.png            800x800 px      Attenti al cane  [foto principale]
+ 52. img/prodotti/sticker-ok-il-pezzo-e-giusto.png       800x800 px      Ok il pezzo è giusto
+
+# Tubini
+ 53. img/prodotti/tubino-zebrato.png                     800x800 px      Tubino zebrato  [foto principale]
+ 54. img/prodotti/tubino-pitonato.png                    800x800 px      Tubino pitonato  [foto principale]
+ 55. img/prodotti/tubino-rosa-maculato.png               800x800 px      Tubino Rosa maculato
+ 56. img/prodotti/tubino-not-just-for-horses.png         800x800 px      Tubino Not just for horses
+ 57. img/prodotti/tubino-tirare-tirare-tirare.png        800x800 px      Tubino Tirare tirare tirare
+ 58. img/prodotti/tubino-fetish.png                      800x800 px      Tubino Fetish
+
+# Schede e santini
+ 59. img/prodotti/schede-metallo-collezione-1.png        800x800 px      Schede in metallo – Collezione 1
+ 60. img/prodotti/schede-metallo-collezione-2.png        800x800 px      Schede in metallo – Collezione 2
+ 61. img/prodotti/tessera-non-elettorale.png             800x800 px      Tessera non elettorale
+ 62. img/prodotti/scheda-porche-madonne.png              800x800 px      Scheda Porche madonne
+ 63. img/prodotti/schede-coppia-bel-colpo.png            800x800 px      Schede coppia – Bel colpo
+ 64. img/prodotti/schede-coppia-migliori-raglioni.png    800x800 px      Schede coppia – Migliori raglioni
+ 65. img/prodotti/santini-collezione-1.png               800x800 px      Santini – Collezione 1
+ 66. img/prodotti/santini-collezione-2.png               800x800 px      Santini – Collezione 2
+ 67. img/prodotti/santini-collezione-20.png              800x800 px      Santini – Collezione da 20
+
+# Pianali
+ 68. img/prodotti/pianale-warner-30cm.png                800x800 px      Pianale Warner Bros 30 cm
+ 69. img/prodotti/pianale-warner-bustina.png             800x800 px      Pianale Warner Bros bustina
+ 70. img/prodotti/pianale-xtc-heineken.png               800x800 px      Pianale Heineken
+ 71. img/prodotti/pianale-xtc-punisher.png               800x800 px      Pianale Punisher
+ 72. img/prodotti/pianale-xtc-chupa-chups.png            800x800 px      Pianale Chupa Chups
+ 73. img/prodotti/pianale-xtc-mitsubishi.png             800x800 px      Pianale Mitsubishi
+ 74. img/prodotti/pianale-xtc-teschietto.png             800x800 px      Pianale Teschietto
+ 75. img/prodotti/pianale-windows.png                    800x800 px      Pianale Windows
+ 76. img/prodotti/pianale-trittico.png                   800x800 px      Pianale Trittico
+ 77. img/prodotti/pianale-inferno.png                    800x800 px      Pianale Inferno
+ 78. img/prodotti/pianale-attenzione-pezzo-finito.png    800x800 px      Pianale Attenzione pezzo finito
+ 79. img/prodotti/pianale-colpi-si-ma-non-di-sonno.png   800x800 px      Pianale Colpi sì ma non di sonno
+ 80. img/prodotti/pianale-narici-trafficate.png          800x800 px      Pianale Narici trafficate
+ 81. img/prodotti/pianale-ketch-and-carry.png            800x800 px      Pianale Ketch and carry
+ 82. img/prodotti/pianale-stendere.png                   800x800 px      Pianale Stendere
+
+# Clipper
+ 83. img/prodotti/clipper-merde.png                      800x800 px      Clipper Merde
+ 84. img/prodotti/clipper-personalizzato.png             800x800 px      Clipper personalizzato  [foto principale]
+ 85. img/prodotti/portaclipper-acciaio.png               800x800 px      Portaclipper con filo in acciaio
+
+# Cartine e filtrini
+ 86. img/prodotti/elements-box-cartine.png               800x800 px      Box cartine Elements
+ 87. img/prodotti/elements-box-filtrini.png              800x800 px      Box filtrini Elements
+ 88. img/prodotti/elements-box-cartine-corte.png         800x800 px      Box cartine corte Elements
+ 89. img/prodotti/elements-box-jilter.png                800x800 px      Box Jilter Elements
+
+# Merch e varie
+ 90. img/prodotti/tshirt-eurospeed.png                   800x800 px      T-shirt Eurospeed  [foto principale]
+ 91. img/prodotti/manifesto.png                          800x800 px      Manifesto
+ 92. img/prodotti/spray-nasale-10ml.png                  800x800 px      Spray nasale 10 ml (vuoto)  [foto principale]
+
+--- D. FOTO DELLE VARIANTI (opzionali: se mancano si vede la foto principale) ---
+Nome file = id prodotto + trattino + variante. Esempio: img/prodotti/tubino-zebrato-giallo.png
+
+# Fotocopia della merda
+ 93. img/prodotti/sticker-fotocopia-della-merda-nuovo.png800x800 px      Nuovo
+ 94. img/prodotti/sticker-fotocopia-della-merda-classico.png800x800 px      Classico
+
+# Banconote
+ 95. img/prodotti/sticker-banconote-20.png               800x800 px      20 €
+ 96. img/prodotti/sticker-banconote-50.png               800x800 px      50 €
+
+# Attenti al cane
+ 97. img/prodotti/sticker-attenti-al-cane-carta.png      800x800 px      Carta
+ 98. img/prodotti/sticker-attenti-al-cane-uv.png         800x800 px      UV
+
+# Tubino zebrato
+ 99. img/prodotti/tubino-zebrato-giallo.png              800x800 px      Giallo
+100. img/prodotti/tubino-zebrato-bianco.png              800x800 px      Bianco
+
+# Tubino pitonato
+101. img/prodotti/tubino-pitonato-rosso.png              800x800 px      Rosso
+102. img/prodotti/tubino-pitonato-giallo.png             800x800 px      Giallo
+103. img/prodotti/tubino-pitonato-verde.png              800x800 px      Verde
+104. img/prodotti/tubino-pitonato-blu.png                800x800 px      Blu
+105. img/prodotti/tubino-pitonato-viola.png              800x800 px      Viola
+
+# T-shirt Eurospeed
+106. img/prodotti/tshirt-eurospeed-l.png                 800x800 px      L
+107. img/prodotti/tshirt-eurospeed-xl.png                800x800 px      XL
+108. img/prodotti/tshirt-eurospeed-xxl.png               800x800 px      XXL
+
+# Spray nasale 10 ml (vuoto)
+109. img/prodotti/spray-nasale-10ml-modello-1.png        800x800 px      Modello 1
+110. img/prodotti/spray-nasale-10ml-modello-2.png        800x800 px      Modello 2
+111. img/prodotti/spray-nasale-10ml-modello-3.png        800x800 px      Modello 3
+112. img/prodotti/spray-nasale-10ml-modello-4.png        800x800 px      Modello 4
+
+(Clipper personalizzati e spray nasali hanno 30 e 4 modelli: stesso schema, es. clipper-personalizzato-modello-01.png)
+
+RIEPILOGO: 78 foto prodotto + grafica del sito (righe 1-3 e 5-6; la 4 e gli sfondi categoria sono opzionali).

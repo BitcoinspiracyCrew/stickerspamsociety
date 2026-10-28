@@ -1,0 +1,56 @@
+STICKER SPAM SOCIETY - COME METTERE ONLINE IL SITO
+===================================================
+
+COSA C'E' DENTRO
+  index.html          il negozio
+  style.css, app.js   grafica e carrello
+  products.js         il catalogo (nomi, prezzi, varianti)  <-- qui si cambiano i prezzi
+  config.js           indirizzo del pagamento (da compilare al passo 3)
+  grazie.html         pagina dopo il pagamento
+  privacy.html, termini.html   bozze legali
+  worker/stripe-checkout.js    il pezzo che crea il pagamento Stripe
+  img/                cartelle per le foto (vedi elenco-immagini.txt)
+
+PASSO 1 - CARICARE SU GITHUB
+  1. Estrai lo zip sul PC.
+  2. Nel repository: Add file > Upload files, trascina TUTTO il contenuto della cartella "sito"
+     (anche le cartelle img e worker) e premi Commit changes.
+  3. Settings > Pages > Deploy from a branch > main / (root) > Save.
+  4. Dopo 1-2 minuti il sito e' online all'indirizzo che GitHub ti mostra in Pages.
+
+PASSO 2 - PROVARLO
+  Apri il sito: scorri, aggiungi roba al carrello, cambia lingua IT/EN.
+  Il pulsante "Vai al pagamento" per ora dice che il pagamento non e' collegato: normale.
+
+PASSO 3 - COLLEGARE STRIPE (serve per incassare)
+  GitHub Pages mostra solo pagine statiche e non puo' tenere la chiave segreta di Stripe.
+  Serve quindi un mini-programma gratuito su Cloudflare:
+  1. Crea un account su cloudflare.com > Workers & Pages > Create > Create Worker.
+  2. Premi Edit code, cancella tutto e incolla il contenuto di worker/stripe-checkout.js. Deploy.
+  3. Nel worker: Settings > Variables and Secrets, aggiungi:
+       STRIPE_SECRET_KEY  (tipo Secret)  la chiave segreta di Stripe. USA PRIMA QUELLA DI PROVA (sk_test_...)
+       SITE_URL           l'indirizzo del sito senza "/" finale, es. https://tuonome.github.io/nome-repo
+  4. Copia l'indirizzo del worker (finisce in .workers.dev) e incollalo in config.js
+       checkoutEndpoint: "https://nome.tuo.workers.dev"
+     Poi ricarica config.js su GitHub (Add file > Upload files, sovrascrive).
+  5. Prova un ordine con la carta di prova Stripe 4242 4242 4242 4242 (data futura, CVC qualsiasi).
+  6. Quando e' tutto ok, cambia STRIPE_SECRET_KEY con quella reale (sk_live_...).
+  Nella dashboard Stripe puoi creare i codici sconto (Prodotti > Codici promozionali): il cliente li inserisce nella pagina di pagamento.
+
+PREZZI E PRODOTTI
+  Apri products.js con il Blocco note. Ogni prodotto ha "options": [{"l":[...],"price": 5}] -> il numero e' il prezzo in euro.
+  Prezzi da CONTROLLARE (messi di prova o ripresi da vecchi appunti):
+  - stickers 1/5/10: 0,50 / 1 / 2 euro (il pezzo singolo e' di prova)
+  - cartine e filtrini Elements: 10 euro (di prova)
+  - manifesti 50x70 e 100x70: 10 / 20 euro (di prova), e mancano i nomi delle grafiche
+  - spray nasali: 3 euro (di prova)
+  - clipper personalizzati: i 30 modelli si chiamano "Modello 01..30" finche' non mi dai i nomi
+  Tutto il resto (box 400 a 20, tubini 15, pianali 10/15/30, schede, santini, portaclipper 5, t-shirt 10) e' preso dal listino di prima: ricontrolla.
+
+FOTO
+  Vedi elenco-immagini.txt: ogni foto ha un nome file preciso. Basta caricarle nelle cartelle img/...
+  Finche' una foto manca, il prodotto mostra un riquadro con il nome.
+
+FONT
+  Il sito usa Futura se presente sul dispositivo (Apple), altrimenti Century Gothic/Jost.
+  Se hai il file del font Futura Bold Italic in formato woff2, chiamalo futura-bold-italic.woff2 e mettilo nella cartella fonts/.

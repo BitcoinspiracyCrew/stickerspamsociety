@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grazie! · Sticker Spam Society</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page" style="text-align:center;padding-top:90px">
+    <h1 id="h">Grazie!</h1>
+    <p id="p1">Ordine ricevuto. Lo prepariamo in 1-2 giorni e lo consegniamo al corriere entro 1 giorno.</p>
+    <p id="p2">Una parte dell’incasso va ai volontari ENPA.</p>
+    <p style="margin-top:28px"><a class="btn" href="index.html" id="back">Torna al negozio</a></p>
+  </div>
+  <script>
+    try { localStorage.removeItem('ssc_cart_v1'); } catch (e) {}
+    try {
+      if (localStorage.getItem('ssc_lang') === 'en') {
+        document.documentElement.lang = 'en';
+        document.getElementById('h').textContent = 'Thank you!';
+        document.getElementById('p1').textContent = 'Order received. We prepare it in 1-2 days and hand it to the courier within 1 day.';
+        document.getElementById('p2').textContent = 'Part of the earnings goes to ENPA volunteers.';
+        document.getElementById('back').textContent = 'Back to the shop';
+      }
+    } catch (e) {}
+  </script>
+</body>
+</html>
