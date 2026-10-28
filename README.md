@@ -1,0 +1,2 @@
+# stickerspamsociety
+The Stickers shop
