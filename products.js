@@ -7,7 +7,7 @@ window.CATALOG = {
   "freeShippingFrom": 50,
   "shipping": {
    "inpost": {
-    "price": 5
+    "price": 5.5
    },
    "brt": {
     "price": 7.5
@@ -24,7 +24,7 @@ window.CATALOG = {
    "id": "offerte",
    "it": [
     "Box & offerte",
-    "Prendi tanto, spendi meno."
+    "Appena stampati costano di meno."
    ],
    "en": [
     "Boxes & deals",
@@ -35,11 +35,11 @@ window.CATALOG = {
    "id": "stickers",
    "it": [
     "Stickers",
-    "Quaranta grafiche in carta. Collezionali tutti."
+    "Ottanta grafiche in carta. Collezionali tutti."
    ],
    "en": [
     "Stickers",
-    "Forty paper designs. Collect them all."
+    "Eighty paper designs. Collect them all."
    ]
   },
   {
@@ -135,8 +135,8 @@ window.CATALOG = {
    "cat": "offerte",
    "featured": true,
    "desc": [
-    "400 stickers in carta, tutti diversi.",
-    "400 paper stickers, all different."
+    "400 stickers in carta, tutti diversi. Attenzione: la carta soffre sole, pioggia e abrasioni.",
+    "400 paper stickers, all different. Note: paper doesn't like sun, rain or abrasion."
    ],
    "options": [
     {
@@ -168,7 +168,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -176,7 +176,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -201,7 +201,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -209,7 +209,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -234,7 +234,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -242,7 +242,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -267,7 +267,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -275,7 +275,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -300,7 +300,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -308,7 +308,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -333,7 +333,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -341,7 +341,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -366,7 +366,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -374,7 +374,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -399,7 +399,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -407,7 +407,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -432,7 +432,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -440,7 +440,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -477,7 +477,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -485,7 +485,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -510,7 +510,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -518,7 +518,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -543,7 +543,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -551,7 +551,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -586,7 +586,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -594,7 +594,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -619,7 +619,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -627,7 +627,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -652,7 +652,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -660,7 +660,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -685,7 +685,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -693,7 +693,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -718,7 +718,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -726,7 +726,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -751,7 +751,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -759,7 +759,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -784,7 +784,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -792,7 +792,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -817,7 +817,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -825,7 +825,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -850,7 +850,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -858,7 +858,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -883,7 +883,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -891,7 +891,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -916,7 +916,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -924,7 +924,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -949,7 +949,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -957,7 +957,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -982,7 +982,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -990,7 +990,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1015,7 +1015,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1023,7 +1023,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1048,7 +1048,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1056,7 +1056,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1083,7 +1083,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1091,7 +1091,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1116,7 +1116,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1124,7 +1124,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1151,7 +1151,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1159,7 +1159,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1184,7 +1184,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1192,7 +1192,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1217,7 +1217,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1225,7 +1225,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1250,7 +1250,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1258,7 +1258,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1283,7 +1283,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1291,7 +1291,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1316,7 +1316,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1324,7 +1324,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1361,7 +1361,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1369,7 +1369,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1394,7 +1394,7 @@ window.CATALOG = {
       "5 stickers",
       "5 stickers"
      ],
-     "price": 1,
+     "price": 2,
      "stk": 5
     },
     {
@@ -1402,7 +1402,7 @@ window.CATALOG = {
       "10 stickers",
       "10 stickers"
      ],
-     "price": 2,
+     "price": 3,
      "stk": 10
     }
    ]
@@ -1414,8 +1414,8 @@ window.CATALOG = {
    "name": "Tubino zebrato",
    "cat": "tubini",
    "desc": [
-    "Tubino in acciaio con collanina.",
-    "Steel tube with a little chain."
+    "Tubino in acciaio con collanina e gancetto.",
+    "Steel tube with a little chain and a clasp."
    ],
    "variants": [
     {
@@ -1444,8 +1444,8 @@ window.CATALOG = {
    "name": "Tubino pitonato",
    "cat": "tubini",
    "desc": [
-    "Tubino in acciaio con collanina.",
-    "Steel tube with a little chain."
+    "Tubino in acciaio con collanina e gancetto.",
+    "Steel tube with a little chain and a clasp."
    ],
    "variants": [
     {
@@ -1486,8 +1486,8 @@ window.CATALOG = {
    "name": "Tubino Rosa maculato",
    "cat": "tubini",
    "desc": [
-    "Tubino in acciaio con collanina.",
-    "Steel tube with a little chain."
+    "Tubino in acciaio con collanina e gancetto.",
+    "Steel tube with a little chain and a clasp."
    ],
    "options": [
     {
@@ -1506,8 +1506,8 @@ window.CATALOG = {
    "name": "Tubino Not just for horses",
    "cat": "tubini",
    "desc": [
-    "Tubino in acciaio con collanina.",
-    "Steel tube with a little chain."
+    "Tubino in acciaio con collanina e gancetto.",
+    "Steel tube with a little chain and a clasp."
    ],
    "options": [
     {
@@ -1526,8 +1526,8 @@ window.CATALOG = {
    "name": "Tubino Tirare tirare tirare",
    "cat": "tubini",
    "desc": [
-    "Tubino in acciaio con collanina.",
-    "Steel tube with a little chain."
+    "Tubino in acciaio con collanina e gancetto.",
+    "Steel tube with a little chain and a clasp."
    ],
    "options": [
     {
@@ -1546,8 +1546,8 @@ window.CATALOG = {
    "name": "Tubino Fetish",
    "cat": "tubini",
    "desc": [
-    "Tubino in acciaio con collanina.",
-    "Steel tube with a little chain."
+    "Tubino in acciaio con collanina e gancetto.",
+    "Steel tube with a little chain and a clasp."
    ],
    "options": [
     {
@@ -2041,22 +2041,6 @@ window.CATALOG = {
   {
    "tags": [],
    "letter": false,
-   "id": "clipper-merde",
-   "name": "Clipper Merde",
-   "cat": "clipper",
-   "options": [
-    {
-     "l": [
-      "Clipper",
-      "Lighter"
-     ],
-     "price": 1
-    }
-   ]
-  },
-  {
-   "tags": [],
-   "letter": false,
    "id": "clipper-personalizzato",
    "name": "Clipper personalizzato",
    "cat": "clipper",
@@ -2066,124 +2050,20 @@ window.CATALOG = {
    ],
    "variants": [
     {
-     "it": "Modello 01",
-     "en": "Design 01"
+     "it": "Sticker Spam rosa",
+     "en": "Sticker Spam pink"
     },
     {
-     "it": "Modello 02",
-     "en": "Design 02"
+     "it": "Sticker Spam giallo",
+     "en": "Sticker Spam yellow"
     },
     {
-     "it": "Modello 03",
-     "en": "Design 03"
+     "it": "Merde",
+     "en": "Merde"
     },
     {
-     "it": "Modello 04",
-     "en": "Design 04"
-    },
-    {
-     "it": "Modello 05",
-     "en": "Design 05"
-    },
-    {
-     "it": "Modello 06",
-     "en": "Design 06"
-    },
-    {
-     "it": "Modello 07",
-     "en": "Design 07"
-    },
-    {
-     "it": "Modello 08",
-     "en": "Design 08"
-    },
-    {
-     "it": "Modello 09",
-     "en": "Design 09"
-    },
-    {
-     "it": "Modello 10",
-     "en": "Design 10"
-    },
-    {
-     "it": "Modello 11",
-     "en": "Design 11"
-    },
-    {
-     "it": "Modello 12",
-     "en": "Design 12"
-    },
-    {
-     "it": "Modello 13",
-     "en": "Design 13"
-    },
-    {
-     "it": "Modello 14",
-     "en": "Design 14"
-    },
-    {
-     "it": "Modello 15",
-     "en": "Design 15"
-    },
-    {
-     "it": "Modello 16",
-     "en": "Design 16"
-    },
-    {
-     "it": "Modello 17",
-     "en": "Design 17"
-    },
-    {
-     "it": "Modello 18",
-     "en": "Design 18"
-    },
-    {
-     "it": "Modello 19",
-     "en": "Design 19"
-    },
-    {
-     "it": "Modello 20",
-     "en": "Design 20"
-    },
-    {
-     "it": "Modello 21",
-     "en": "Design 21"
-    },
-    {
-     "it": "Modello 22",
-     "en": "Design 22"
-    },
-    {
-     "it": "Modello 23",
-     "en": "Design 23"
-    },
-    {
-     "it": "Modello 24",
-     "en": "Design 24"
-    },
-    {
-     "it": "Modello 25",
-     "en": "Design 25"
-    },
-    {
-     "it": "Modello 26",
-     "en": "Design 26"
-    },
-    {
-     "it": "Modello 27",
-     "en": "Design 27"
-    },
-    {
-     "it": "Modello 28",
-     "en": "Design 28"
-    },
-    {
-     "it": "Modello 29",
-     "en": "Design 29"
-    },
-    {
-     "it": "Modello 30",
-     "en": "Design 30"
+     "it": "Khole",
+     "en": "Khole"
     }
    ],
    "options": [
@@ -2218,13 +2098,17 @@ window.CATALOG = {
    "id": "elements-box-cartine",
    "name": "Box cartine Elements",
    "cat": "cartine",
+   "desc": [
+    "Ogni box contiene 50 unità.",
+    "Each box contains 50 units."
+   ],
    "options": [
     {
      "l": [
       "Box",
       "Box"
      ],
-     "price": 10
+     "price": 30
     }
    ]
   },
@@ -2234,13 +2118,17 @@ window.CATALOG = {
    "id": "elements-box-filtrini",
    "name": "Box filtrini Elements",
    "cat": "cartine",
+   "desc": [
+    "Ogni box contiene 50 unità.",
+    "Each box contains 50 units."
+   ],
    "options": [
     {
      "l": [
       "Box",
       "Box"
      ],
-     "price": 10
+     "price": 20
     }
    ]
   },
@@ -2250,13 +2138,17 @@ window.CATALOG = {
    "id": "elements-box-cartine-corte",
    "name": "Box cartine corte Elements",
    "cat": "cartine",
+   "desc": [
+    "Ogni box contiene 50 unità.",
+    "Each box contains 50 units."
+   ],
    "options": [
     {
      "l": [
       "Box",
       "Box"
      ],
-     "price": 10
+     "price": 30
     }
    ]
   },
@@ -2266,13 +2158,17 @@ window.CATALOG = {
    "id": "elements-box-jilter",
    "name": "Box Jilter Elements",
    "cat": "cartine",
+   "desc": [
+    "Ogni box contiene 50 unità.",
+    "Each box contains 50 units."
+   ],
    "options": [
     {
      "l": [
       "Box",
       "Box"
      ],
-     "price": 10
+     "price": 30
     }
    ]
   },
@@ -2316,6 +2212,28 @@ window.CATALOG = {
     "Stampa grande formato.",
     "Large format print."
    ],
+   "variants": [
+    {
+     "it": "Madonna delle pastiglie",
+     "en": "Madonna delle pastiglie"
+    },
+    {
+     "it": "San Basato",
+     "en": "San Basato"
+    },
+    {
+     "it": "Addolorata del mezzo grammo scarso",
+     "en": "Addolorata del mezzo grammo scarso"
+    },
+    {
+     "it": "San Metilene",
+     "en": "San Metilene"
+    },
+    {
+     "it": "Sant'Isomero",
+     "en": "Sant'Isomero"
+    }
+   ],
    "options": [
     {
      "l": [
@@ -2329,7 +2247,7 @@ window.CATALOG = {
       "100×70 cm",
       "100×70 cm"
      ],
-     "price": 20
+     "price": 10
     }
    ]
   },
@@ -2341,20 +2259,20 @@ window.CATALOG = {
    "cat": "merch",
    "variants": [
     {
-     "it": "Modello 1",
-     "en": "Design 1"
+     "it": "Il fulmine",
+     "en": "Lightning"
     },
     {
-     "it": "Modello 2",
-     "en": "Design 2"
+     "it": "Il cavallo",
+     "en": "Horse"
     },
     {
-     "it": "Modello 3",
-     "en": "Design 3"
+     "it": "Il fiocco di neve",
+     "en": "Snowflake"
     },
     {
-     "it": "Modello 4",
-     "en": "Design 4"
+     "it": "La capsula",
+     "en": "Capsule"
     }
    ],
    "options": [
@@ -2364,6 +2282,26 @@ window.CATALOG = {
       "Spray"
      ],
      "price": 3
+    }
+   ]
+  },
+  {
+   "tags": [],
+   "letter": false,
+   "id": "spray-nasale-bundle-4",
+   "name": "Bundle 4 spray nasali 10 ml (vuoti)",
+   "cat": "merch",
+   "desc": [
+    "Tutte e 4 le immagini: fulmine, cavallo, fiocco di neve e capsula.",
+    "All 4 designs: lightning, horse, snowflake and capsule."
+   ],
+   "options": [
+    {
+     "l": [
+      "Bundle 4 spray",
+      "4-spray bundle"
+     ],
+     "price": 10
     }
    ]
   }
